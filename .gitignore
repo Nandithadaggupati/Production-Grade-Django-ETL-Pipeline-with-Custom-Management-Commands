@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment files
+.env
+.env.local
+
+# Checkpoints
+lsn_checkpoint.txt
+
+# Editor / System files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
