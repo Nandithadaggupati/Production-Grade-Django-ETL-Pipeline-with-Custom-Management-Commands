@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment
+.env
+
+# Database
+db.sqlite3
+
+# IDE / System
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.system_generated/
+*.log
